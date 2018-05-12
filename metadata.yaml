@@ -1,0 +1,33 @@
+_repo: Our-Common-Insects--13-A-Popular-Account-of-the-Insects-of-Our-Fields-Forests-Gardens-and-Hou__24409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Packard, A. S. (Alpheus Spring)
+    alias: Packard, Alpheus Spring
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '9382'
+    url: http://www.gutenberg.org/2009/agents/9382
+    wikipedia: http://en.wikipedia.org/wiki/Alpheus_Spring_Packard
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Animals-Wild-Insects
+- Children's Instructional Books
+gutenberg_issued: '2008-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects'
+- !lcc 'QL'
+title: "Our Common Insects\r\nA Popular Account of the Insects of Our Fields, Forests,\
+  \ Gardens and Houses"
+url: http://www.gutenberg.org/ebooks/24409
