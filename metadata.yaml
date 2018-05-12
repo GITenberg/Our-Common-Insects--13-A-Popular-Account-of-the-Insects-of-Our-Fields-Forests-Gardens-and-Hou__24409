@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9382
     wikipedia: http://en.wikipedia.org/wiki/Alpheus_Spring_Packard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24409#Our-Common-Insects--13-A-Popular-Account-of-the-Insects-of-Our-Fields-Forests-Gardens-and-Hou_
 gutenberg_bookshelf:
 - Biology
 - Animals-Wild-Insects
